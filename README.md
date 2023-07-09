@@ -6,7 +6,6 @@
  - [x] Coding
  - [x] Designing
  - [x] Anything that includes Web Development
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=v-pun215&theme=radical)](https://github.com/v-pun215/github-readme-stats)
+ - [ ] Giving you up
 
 [![Langs I use](https://github-readme-stats.vercel.app/api/top-langs/?username=v-pun215&layout=compact)](https://github.com/v-pun215/github-readme-stats)
