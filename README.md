@@ -6,6 +6,14 @@
  - [x] Coding
  - [x] Designing
  - [x] Anything that includes Web Development
- - [ ] Giving you up
+ - [x] Anything that includes Python
+
+## My Development Environment
+
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Windows%20/%20macOS&color=blue&?style=flat&logo=linux)
+
+![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VScode%20/%20VIM&color=blue&?style=flat&logo=Sublime)
+
+![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Chrome&color=blue&?style=flat&logo=chrome)
 
 [![Langs I use](https://github-readme-stats.vercel.app/api/top-langs/?username=v-pun215&layout=compact)](https://github.com/v-pun215/github-readme-stats)
