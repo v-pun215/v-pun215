@@ -10,11 +10,11 @@
 
 ## My Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=Windows%20/%20macOS&color=blue&?style=flat&logo=windows)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Windows_11%20/%20macOS_Ventura&color=blue&?style=flat&logo=windows11)
 
-![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=VSCode&color=blue&?style=flat&logo=visualstudiocode)
+![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=Visual_Studio_Code&color=blue&?style=flat&logo=visualstudiocode)
 
-![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Chrome&color=blue&?style=flat&logo=googlechrome&logoColor=FFFFFF)
+![Web Browser](https://img.shields.io/static/v1?label=Browser&message=Google_Chrome&color=blue&?style=flat&logo=googlechrome&logoColor=FFFFFF)
 
 ## GitHub Stats
 
