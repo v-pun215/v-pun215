@@ -18,4 +18,6 @@
 
 ## GitHub Stats
 
+[![v-pun215's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-pun215)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Langs I use](https://github-readme-stats.vercel.app/api/top-langs/?username=v-pun215&layout=compact)](https://github.com/v-pun215/github-readme-stats)
