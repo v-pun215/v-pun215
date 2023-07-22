@@ -1,4 +1,4 @@
-# Hi there! I'm v-pun215.
+# Hi there! 👋 I'm v-pun215.
 
 
  ##### Here are some things I know:
