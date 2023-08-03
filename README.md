@@ -10,7 +10,7 @@
 
 ## My Development Environment
 
-![Operating System](https://img.shields.io/static/v1?label=OS&message=Windows_11%20/%20macOS_Ventura&color=blue&?style=flat&logo=windows11)
+![Operating System](https://img.shields.io/static/v1?label=OS&message=Windows%20/%20macOS&color=blue&?style=flat&logo=windows11)
 
 ![Text Editor](https://img.shields.io/static/v1?label=Text%20Editor&message=Visual_Studio_Code&color=blue&?style=flat&logo=visualstudiocode)
 
