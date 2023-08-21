@@ -18,4 +18,9 @@
 
 ## GitHub Stats
 
-[![Langs I use](https://github-readme-stats.vercel.app/api/top-langs/?username=v-pun215&layout=compact)](https://github.com/v-pun215/eClient)
+![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-pun215&theme=dark\&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-pun215&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v-pun215&repo=eClient&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
