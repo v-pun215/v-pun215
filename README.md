@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm v-pun215.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&size=30&pause=1000&width=435&lines=I'm+a+developer.;I'm+a+designer.;I'm+a+gamer.;I'm+Vihaan.)](https://git.io/typing-svg)
+
 
  ##### Here are some things I know:
  
  - [x] Coding
- - [x] Designing
+ - [] Designing
  - [x] Anything that includes Web Development
  - [x] Anything that includes Python
 
