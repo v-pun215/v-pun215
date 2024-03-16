@@ -5,7 +5,6 @@
  ##### Here are some things I know:
  
  - [x] Coding
- - [] Designing
  - [x] Anything that includes Web Development
  - [x] Anything that includes Python
 
