@@ -22,6 +22,6 @@
 
 ![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-pun215&theme=dark\&rank_icon=github)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v-pun215&repo=eClient&theme=dark)](https://github.com/v-pun215/eClient)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v-pun215&repo=Argon&theme=dark)](https://github.com/v-pun215/Argon)
 
 [![](https://visitcount.itsvg.in/api?id=v-pun215&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
