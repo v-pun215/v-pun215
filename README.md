@@ -1,22 +1,7 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Vihaan Pundir</h1>
-<h3 align="center">🚀 Developer | 🧑‍💻 Builder | 🌌 Explorer</h3>
+<h3 align="center">🚀 Developer | 🧑‍💻 Student | 🌌 Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Exploring+code+like+the+cosmos;Equations+%7C+Algorithms+%7C+Ideas;Engineering+meets+curiosity;Science+driven+developer" alt="Typing SVG" />
-</p>
-
-
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,golang,js,python,git,github,vscode,apple,windows,linux" />
-</p>
-
----
 
 ## ⚡ About Me   
 - 🏆 Hackathon participant, problem solver, and **tech explorer**
