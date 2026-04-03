@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vihaan Pundir</h1>
 <h3 align="center">🚀 Developer | 🧑‍💻 Student | 🌌 Explorer</h3>
 
-
 ## ⚡ About Me   
 - 🏆 Hackathon participant, problem solver, and **tech explorer**
 - 💡 Aim to create open-source tools that others actually use.
