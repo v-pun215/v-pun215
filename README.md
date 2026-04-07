@@ -23,5 +23,4 @@
 </p>
 
 ---
-
 <p align="center">⭐ If you like my work, please consider giving a star to my projects! ⭐</p>
