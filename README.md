@@ -9,7 +9,6 @@
 - 🌌 Passionate about **space, science, and big ideas**
 - 🎯 Long-term goal: contribute to scientific computing, aerospace, and AI research.
 
-
 ---
 
 ## 📊 GitHub Stats  
