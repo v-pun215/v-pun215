@@ -1,14 +1,19 @@
+# vihaan
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=vihaan&fontSize=42&fontColor=4FD1C5&fontAlign=50&fontAlignY=55&animation=fadeIn&theme=tokyonight"/>
-</div>
+i'm 15, sophomore in high school. currently working on cs and math. 
 
-Student. Curious about computers, space, and math.
+### what i'm doing in computer science
+currently studying design and analysis of algorithms; working on competitive programming
 
-Currently learning how things work — one project at a time.
+### what i'm doing in math
+mostly related to cs, doing discrete math, number theory, combinatorics (6.1200J MIT OCW)
+
+### what i'm working on
+systems programming: chocoboy - a game boy emulator
+
+development: latent - a screenshot manager/organiser
+
+always working on projects within [@exunclan](https://github.com/exunclan)
 
 ---
-
-**Interests:** programming, science, piano, math competitions
-
-
+always open to talking and working with others on problems
